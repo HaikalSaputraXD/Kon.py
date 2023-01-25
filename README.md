@@ -5,7 +5,7 @@ $ pkg instal python git
 
 $ pkg install play-audio
 
-$ https://github.com/HaikalSaputraXD/Kon.py
+$ git clone https://github.com/HaikalSaputraXD/Kon.py
 
 $ cd kon
 
