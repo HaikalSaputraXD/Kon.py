@@ -1,4 +1,4 @@
-#install bahan
+
 $pkg update && pkg upgrade
 
 $ pkg instal python git
