@@ -1,6 +1,5 @@
 #install bahan
-
-pembaruan pkg && peningkatan pkg
+$pkg update && pkg upgrade
 
 $ pkg instal python git
 
