@@ -1,7 +1,8 @@
 #install bahan
-pembaruan $ pkg && peningkatan pkg
 
-$ pkg install python git
+pembaruan pkg && peningkatan pkg
+
+$ pkg instal python git
 
 $ pkg install play-audio
 
